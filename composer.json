@@ -1,6 +1,7 @@
 {
     "name": "spec/mongo",
     "type": "library",
+    "license": "MIT",
     "homepage": "https://github.com/Eddy-Gordo/php-mongo",
     "require": {
         "php": ">=5.3.0"
